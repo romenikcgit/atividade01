@@ -1,7 +1,7 @@
 # Modelo de currículo.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/romenikcgit/atividade01/blob/main/LICENCE)
 # Sobre o Projeto
-<div align=center> Modelo do currículo, suando HTML e CSS.
+<div align=center> Modelo do currículo, usando HTML e CSS.
 </div>
 <br>
 <div align="center">
